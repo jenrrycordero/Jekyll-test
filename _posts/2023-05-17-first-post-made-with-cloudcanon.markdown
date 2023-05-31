@@ -10,4 +10,4 @@ This is the first post made with Cloudcanon
 
 ## Here you got an image uploaded with Cloudcanon
 
-![](/uploads/home-header-desktop.png){: width="3977" height="1608"}
+![](/uploads/home-header-desktop.png){: width="auto" height="auto"}
