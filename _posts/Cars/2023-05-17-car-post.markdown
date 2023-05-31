@@ -3,5 +3,6 @@ layout: post
 title: Car post
 date: 2023-05-17 14:26:31
 categories:
-- Cars
+  - Cars
 ---
+This is a car post
