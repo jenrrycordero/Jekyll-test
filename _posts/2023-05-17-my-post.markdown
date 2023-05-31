@@ -2,6 +2,8 @@
 layout: post
 title:  "My Post"
 date:   2023-05-17 10:26:31 -0400
-categories: jekyll testing
+categories:
+  - jekyll
+  - testing
 ---
 Testing Jekyll
