@@ -15,4 +15,4 @@ This is the first post made with Cloudcanon
 
 This change was made by a client using the client saring link
 
-This text was wrote by a Editor. It can only see posts and pages
+This text was wrote by a Editor. It can only see posts and pages.
